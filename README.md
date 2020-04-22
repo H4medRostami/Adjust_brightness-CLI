@@ -13,3 +13,5 @@ prerequesties
 3.add new alias in .bashrc and save it.
 
        alias b="bash ~/.brightness.bash"
+       
+4. type b  in terminal and go on.
